@@ -1,4 +1,4 @@
-# Engineering setup
+# Engineering
 
 ## Prettier
 
